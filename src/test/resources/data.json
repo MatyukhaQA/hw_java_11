@@ -1,0 +1,8 @@
+{
+  "firstName": "Sweeney",
+  "lastName": "Todd",
+  "age": 23,
+  "languages": ["English","Spanish"],
+  "hobbies": ["Math","Science"]
+
+}
